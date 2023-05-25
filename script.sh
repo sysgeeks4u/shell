@@ -1,3 +1,3 @@
 #!/bin/bash
-date
-pwd
+echo "Hiii....Raju"
+uptime
